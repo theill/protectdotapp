@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="http://protectdotapp.commanigy.com" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="protectdotapp.commanigy.com" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="Protect .APP (production)" publishMethod="FPSE" replaceMatchingFiles="True" userName="" savePWD="True" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Microsoft.WindowsAzure.Diagnostics.dll" publishTime="01/31/2010 17:57:30" />
+    <file relUrl="bin/MvcWebRole.dll" publishTime="04/30/2010 10:08:19" />
+    <file relUrl="Scripts/MicrosoftAjax.js" publishTime="04/24/2010 09:45:09" />
+    <file relUrl="Global.asax" publishTime="04/24/2010 09:45:09" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="04/24/2010 09:45:09" />
+    <file relUrl="Scripts/jquery.validate-vsdoc.js" publishTime="04/24/2010 09:45:09" />
+    <file relUrl="Content/loading-blue.gif" publishTime="04/29/2010 08:48:14" />
+    <file relUrl="Content/reset.css" publishTime="04/24/2010 09:50:39" />
+    <file relUrl="Content/ajax-loader.gif" publishTime="04/25/2010 13:24:30" />
+    <file relUrl="bin/Microsoft.WindowsAzure.StorageClient.dll" publishTime="01/31/2010 17:57:32" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.debug.js" publishTime="04/24/2010 09:45:09" />
+    <file relUrl="Views/SecurePackage/Details.aspx" publishTime="04/29/2010 09:17:15" />
+    <file relUrl="bin/MvcWebRole.pdb" publishTime="04/30/2010 10:08:19" />
+    <file relUrl="Content/reflection.jpg" publishTime="04/26/2010 09:56:52" />
+    <file relUrl="Content/content-bg.gif" publishTime="04/26/2010 09:56:52" />
+    <file relUrl="Content/bg.png" publishTime="04/26/2010 09:56:52" />
+    <file relUrl="bin/Microsoft.WindowsAzure.Diagnostics.xml" publishTime="01/31/2010 17:42:24" />
+    <file relUrl="Content/base.css" publishTime="04/29/2010 23:42:43" />
+    <file relUrl="Scripts/Myriad_Pro_400-Myriad_Pro_600.font.js" publishTime="04/29/2010 08:15:32" />
+    <file relUrl="Scripts/jquery.validate.js" publishTime="04/24/2010 09:45:09" />
+    <file relUrl="bin/System.Web.Mvc.xml" publishTime="02/17/2010 07:22:24" />
+    <file relUrl="Views/Package/New.aspx" publishTime="04/29/2010 08:24:51" />
+    <file relUrl="Views/Home/About.aspx" publishTime="04/25/2010 14:14:58" />
+    <file relUrl="Views/Package/Create.aspx" publishTime="04/29/2010 23:28:37" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="04/24/2010 09:45:09" />
+    <file relUrl="bin/System.Web.Mvc.dll" publishTime="02/17/2010 07:24:14" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.debug.js" publishTime="04/24/2010 09:45:09" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.js" publishTime="04/24/2010 09:45:09" />
+    <file relUrl="Scripts/application.js" publishTime="04/25/2010 13:22:36" />
+    <file relUrl="Scripts/jquery.validate.min.js" publishTime="04/24/2010 09:45:09" />
+    <file relUrl="Views/Shared/Site.Master" publishTime="04/29/2010 23:44:49" />
+    <file relUrl="Views/Shared/Error.aspx" publishTime="04/24/2010 09:45:09" />
+    <file relUrl="Scripts/cufon-yui.js" publishTime="04/29/2010 08:15:23" />
+    <file relUrl="Views/Web.config" publishTime="04/30/2010 10:08:25" />
+    <file relUrl="Web.config" publishTime="04/30/2010 10:08:25" />
+    <file relUrl="Views/Package/Details.aspx" publishTime="04/29/2010 23:34:13" />
+    <file relUrl="Content/960.css" publishTime="04/24/2010 09:50:39" />
+    <file relUrl="bin/Microsoft.WindowsAzure.StorageClient.xml" publishTime="01/31/2010 17:42:24" />
+    <file relUrl="Scripts/MicrosoftAjax.debug.js" publishTime="04/24/2010 09:45:09" />
+    <file relUrl="Content/key-64px.png" publishTime="04/29/2010 08:18:33" />
+    <file relUrl="Content/text.css" publishTime="04/24/2010 09:50:39" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="04/24/2010 09:45:09" />
+    <file relUrl="bin/ZayPay.Sdk.dll" publishTime="04/16/2010 20:13:47" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="04/24/2010 09:45:09" />
+  </publishProfile>
+</publishData>

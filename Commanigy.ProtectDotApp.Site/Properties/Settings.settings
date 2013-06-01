@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Commanigy.ProtectDotApp.Site.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ZayPayApi" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">3363c50d0d760fd122f53b7cf47223ae</Value>
+    </Setting>
+    <Setting Name="ZayPayPriceSettingID" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">73062</Value>
+    </Setting>
+    <Setting Name="StorageLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\temp</Value>
+    </Setting>
+    <Setting Name="PayPalGateway" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">test</Value>
+    </Setting>
+    <Setting Name="PayPalEmail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">dummy4@theill.com</Value>
+    </Setting>
+    <Setting Name="PayPalHostedButtonID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CBLF3C2WKU4FG</Value>
+    </Setting>
+    <Setting Name="PayPalGatewayUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://www.sandbox.paypal.com/cgi-bin/webscr</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
